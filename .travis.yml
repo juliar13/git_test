@@ -11,4 +11,4 @@ before_script:
     - npm install --quiet -g karma
 
 script:
-    - echo "test" 
+    - echo "test"
